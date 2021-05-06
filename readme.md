@@ -15,4 +15,12 @@ Screenshot dari admin-side "Tumbas.ne"
 ![8 1](https://user-images.githubusercontent.com/41983863/71258666-5c949100-2369-11ea-88c0-24274106fbd9.jpg)
 
 Screenshot dari client-side "Tumbas.ne"
-![1](https://github.com/MichaelKevinAdinata27RPL/Tumbas.ne/blob/master/doc/screenshoot-038.png?raw=true)
+![1](https://github.com/MichaelKevinAdinata27RPL/Tumbas.ne/blob/master/doc/screenshoot-039.png?raw=true)
+![2](https://github.com/MichaelKevinAdinata27RPL/Tumbas.ne/blob/master/doc/screenshoot-040.png?raw=true)
+![3](https://github.com/MichaelKevinAdinata27RPL/Tumbas.ne/blob/master/doc/screenshoot-041.png?raw=true)
+![4](https://github.com/MichaelKevinAdinata27RPL/Tumbas.ne/blob/master/doc/screenshoot-042.png?raw=true)
+![5](https://github.com/MichaelKevinAdinata27RPL/Tumbas.ne/blob/master/doc/screenshoot-043.png?raw=true)
+![6](https://github.com/MichaelKevinAdinata27RPL/Tumbas.ne/blob/master/doc/screenshoot-044.png?raw=true)
+![7](https://github.com/MichaelKevinAdinata27RPL/Tumbas.ne/blob/master/doc/screenshoot-045.png?raw=true)
+![8](https://github.com/MichaelKevinAdinata27RPL/Tumbas.ne/blob/master/doc/screenshoot-046.png?raw=true)
+![9](https://github.com/MichaelKevinAdinata27RPL/Tumbas.ne/blob/master/doc/screenshoot-047.png?raw=true)
