@@ -1,4 +1,6 @@
-Screenshot dari web admin "Tumbas.ne"
+Tumbas.ne adalah website penjualan di kantin yang berbasis online. Saat ini masih menggunakan localhost PhpMyAdmin untuk database nya, dan menggunakan teknologi laravel sebagai backend dan frontend nya. Website ini dikerjakan oleh tim saya. Tersedia dalam 2 view yaitu client-side and admin-side.
+
+Screenshot dari admin-side "Tumbas.ne"
 
 ![1](https://user-images.githubusercontent.com/41983863/71258667-5d2d2780-2369-11ea-9bd1-374888e3e67c.jpg)
 ![2 1](https://user-images.githubusercontent.com/41983863/71258668-5dc5be00-2369-11ea-8b95-a93a5a66b4e4.jpg)
@@ -11,3 +13,5 @@ Screenshot dari web admin "Tumbas.ne"
 ![6](https://user-images.githubusercontent.com/41983863/71258677-5ef6eb00-2369-11ea-8959-4fc307ea68fe.jpg)
 ![7 1](https://user-images.githubusercontent.com/41983863/71258678-5f8f8180-2369-11ea-9dfd-5af953f8931f.jpg)
 ![8 1](https://user-images.githubusercontent.com/41983863/71258666-5c949100-2369-11ea-88c0-24274106fbd9.jpg)
+
+Screenshot dari client-side "Tumbas.ne"
